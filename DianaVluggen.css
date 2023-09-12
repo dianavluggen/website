@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+.aura {
+	margin: 10px 15px 10px 0px;
+}
+
+#footer {
+	height: 10px;
+	background: #C1C1C1 url(images/footer.png) no-repeat;
+	clear: both;
+	width: 100%;
+}
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background: #C1C1C1 url(images/achtergrond3.png) repeat-x;
+}
+#container {
+	margin-right: auto;
+	margin-left: auto;
+	width: 980px;
+	background: #F3EFEF;
+}
+#content {
+	float: left;
+	width: 640px;
+	padding: 15px 25px 30px;
+	background: #F3EFEF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	border-right: 1px solid #C36327;
+	color: #040404;
+}
+#logo_adres {
+	float: left;
+	width: 248px;
+	padding: 10px 15px 30px 25px;
+	background: #F3EFEF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+}
+#copyright {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	height: 12px;
+	width: 670px;
+	text-align: center;
+	color: #555555;
+	background: #C1C1C1;
+	padding-top: 2px;
+	padding-bottom: 30px;
+	vertical-align: middle;
+	line-height: 21px;
+	float: left;
+}
+#schaduw {
+	background: url(images/schaduw_foto.png) center bottom;
+	height: 8px;
+	width: 100%;
+}
+#intro {
+	width: 100%;
+	height: 215px;
+	background: url(images/3-beelden_02.jpg) no-repeat;
+}
+#header {
+	height: 50px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	vertical-align: top;
+	text-align: left;
+	background: #302626 url(images/images2/images/intro-zwart_01.jpg) no-repeat bottom;
+}
+.groot_18pnt {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #c46329;
+	text-align: left;
+	font-weight: bold;
+}
+.lijn_onder {
+	margin-top: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	border-bottom: 1px solid #c46329;
+	border-left: 10px solid #C46329;
+	font-size: 18px;
+	font-weight: bold;
+	color: #c36327;
+}
+#footer_ronding {
+	height: 8px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background: #C1C1C1 url(images/schaduw_foto2.png);
+}
